@@ -18,7 +18,6 @@ A minimalistic template for kickstarting React projects with Vite and TypeScript
 
 ## ⚙️ Prerequisites
 
-
 Make sure you have the following installed on your development machine:
 
 - Node.js (version 16 or above)
